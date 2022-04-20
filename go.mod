@@ -24,7 +24,7 @@ require (
 	github.com/grpc-ecosystem/grpc-health-probe v0.4.2
 	github.com/hpcloud/tail v1.0.0
 	github.com/imdario/mergo v0.3.11 // indirect
-	github.com/kubernetes-csi/external-snapshotter/v2 v2.1.1
+	github.com/kubernetes-csi/external-snapshotter/v2 v2.1.3
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/onsi/ginkgo v1.15.2
 	github.com/onsi/gomega v1.11.0
